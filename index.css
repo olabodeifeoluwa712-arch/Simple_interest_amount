@@ -1,0 +1,27 @@
+.js-assignment{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+width: fit-content;
+margin: 100px auto;
+border: 4px;
+border-radius:5px solid ;
+gap: 10px;
+
+ 
+
+}
+.head{
+    text-align: center;
+    margin-bottom: 7px;
+    color:rgb(141, 15, 15);
+
+}
+   
+
+.button{
+    background-color: darkgreen;
+    border-radius: 7px;
+    padding: 5px;
+    color: yellowgreen;
+}
