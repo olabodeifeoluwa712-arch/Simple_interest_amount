@@ -10,4 +10,4 @@ trigger2.addEventListener("click", () => {
     const summary = "After " + period.value + " years at an interest rate of" + rate.value + "the total amount will be " + total_amount
     document.getElementById("result").textContent = summary;
 
-});
+})
